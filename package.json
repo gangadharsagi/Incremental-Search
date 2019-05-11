@@ -1,6 +1,7 @@
 {
   "name": "incremental-search",
   "version": "0.0.1",
+  "proxy": "http://localhost:3001",
   "dependencies": {
     "@material-ui/core": "latest",
     "@material-ui/icons": "latest",
